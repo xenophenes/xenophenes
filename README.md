@@ -29,5 +29,5 @@ Reach out anytime for help with connections, job searches, or assistance in gett
 
 **Resources**
 
-- [Resume](https://docs.google.com/document/d/1UGqwXq7kNPM_h_eNvbgHWS_a9DwNlIb8/edit?usp=sharing&ouid=107299840484468423082&rtpof=true&sd=true)
+- [Resume](https://docs.google.com/document/d/1XqgqE9XlT9J5wEK9h_A6Y2NnHmKIWFzn/edit?usp=sharing&ouid=107299840484468423082&rtpof=true&sd=true)
 - [Portfolio](https://docs.google.com/document/d/1UGqwXq7kNPM_h_eNvbgHWS_a9DwNlIb8/edit?usp=sharing&ouid=107299840484468423082&rtpof=true&sd=true)
