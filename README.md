@@ -12,7 +12,9 @@ I'm a jack-of-all-trades with 12+ years experience in the world of open source, 
 💞️ Would love to collaborate on a variety of different projects, including:
 
 ✅ those needing a developer advocate to craft marketing strategy, handle social media outreach, build communities across different platforms, and manage & create content.
+
 ✅ those needing a technical writer or documentation expert who can adequately translate product functionality into a complete documentation environment, no matter the existing state of your docs.
+
 ✅ those needing a frontend developer who can cover HTML, CSS, JavaScript / JQuery, CMS implementation, JAMStack, Hugo, HubSpot, Bootstrap, Tailwind CSS, or Wordpress. 
     
 📄 I can work independently or as a team player in any time zone, and can implement mockups, improve existing designs, or create my own implementations of content. All code has a minimal footprint, is well documented and tested, and results in responsive, accessible, and pixel-perfect presentations of your content.
